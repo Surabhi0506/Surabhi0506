@@ -1,9 +1,10 @@
-## Hi there! I'm Surabhi Abhyankar 👋
+# Hey! I'm Surabhi Abhyankar 👋
 
 🎓 BCA Graduate | 🎓 MCA Student | 💻 Developer | 🎨 UI/UX Enthusiast
 
 I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,15 +29,35 @@ I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learnin
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-## 🚀 What I Like Working On
+## 🚀 Featured Project
+
+### 🎵 Soundwave — Online Music Streaming Website
+
+Developed **Soundwave**, a fully functional online music streaming website as my **Final Year Major Project for BCA**.
+
+Soundwave was designed to provide users with an interactive and user-friendly platform for streaming music online.
+
+- 🎧 Online music streaming and playback
+- 🌐 Interactive and responsive web interface
+- 🎨 User-focused UI/UX design
+- 🔍 Easy navigation and music discovery
+- 💻 Fully working web application
+- 🎓 Developed as my BCA Final Year Major Project
+
+---
+
+## 💡 What I Like Working On
 
 - 🌐 Web Development
 - 🧩 Problem Solving
 - 🎨 UI/UX Design
 - 🗄️ Database-driven Applications
+- 🎵 Interactive Web Applications
 - 📚 Learning and experimenting with new technologies
 
+---
 
 ## 📌 Currently Learning
 
@@ -44,7 +65,9 @@ I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learnin
 - Building better React applications
 - Improving JavaScript, Java & Python
 - Writing clean and maintainable code
+- Exploring modern web development tools and technologies
 
+---
 
 ## 🤝 Let's Connect
 
