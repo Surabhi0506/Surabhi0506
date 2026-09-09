@@ -1,8 +1,8 @@
 ## Hi there! I'm Surabhi Abhyankar 👋
 
-🎓 MCA Student | 💻 Developer | 🎨 UI/UX Enthusiast
+🎓 BCA Graduate | 🎓 MCA Student | 💻 Developer | 🎨 UI/UX Enthusiast
 
-I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
+I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
 
 
 ## 🛠️ Tech Stack
