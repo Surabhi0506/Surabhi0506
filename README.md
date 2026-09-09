@@ -4,7 +4,6 @@
 
 I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +28,6 @@ I enjoy building projects, learning new technologies, and turning ideas into cle
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 🚀 What I Like Working On
 
@@ -39,7 +37,6 @@ I enjoy building projects, learning new technologies, and turning ideas into cle
 - 🗄️ Database-driven Applications
 - 📚 Learning and experimenting with new technologies
 
----
 
 ## 📌 Currently Learning
 
@@ -48,7 +45,6 @@ I enjoy building projects, learning new technologies, and turning ideas into cle
 - Improving JavaScript, Java & Python
 - Writing clean and maintainable code
 
----
 
 ## 🤝 Let's Connect
 
