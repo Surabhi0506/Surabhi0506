@@ -4,7 +4,6 @@
 
 I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +28,6 @@ I'm a BCA graduate currently pursuing my MCA. I enjoy building projects, learnin
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 🚀 Featured Project
 
@@ -46,7 +44,6 @@ Soundwave was designed to provide users with an interactive and user-friendly pl
 - 💻 Fully working web application
 - 🎓 Developed as my BCA Final Year Major Project
 
----
 
 ## 💡 What I Like Working On
 
@@ -57,7 +54,6 @@ Soundwave was designed to provide users with an interactive and user-friendly pl
 - 🎵 Interactive Web Applications
 - 📚 Learning and experimenting with new technologies
 
----
 
 ## 📌 Currently Learning
 
@@ -67,7 +63,6 @@ Soundwave was designed to provide users with an interactive and user-friendly pl
 - Writing clean and maintainable code
 - Exploring modern web development tools and technologies
 
----
 
 ## 🤝 Let's Connect
 
