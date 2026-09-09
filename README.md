@@ -1,6 +1,6 @@
 ## Hi there! I'm Surabhi Abhyankar 👋
 
-🎓 BCA Student | 💻 Developer | 🎨 UI/UX Enthusiast
+🎓 MCA Student | 💻 Developer | 🎨 UI/UX Enthusiast
 
 I enjoy building projects, learning new technologies, and turning ideas into clean, functional applications. I'm currently exploring full-stack development and improving my problem-solving skills through coding and projects.
 
